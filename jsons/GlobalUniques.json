@@ -12,8 +12,9 @@
 
 
         // Golden Age Bonuses
-        "[+1 Gold] per every [200] [Gold] <during a Golden Age> <starting from the [Industrial era]>",
-        "[+1 Gold] per every [200] [Gold] <during a Golden Age> <starting from the [Atomic era]>",
+        "[+1 Gold] per every [100] [Gold] <during a Golden Age>",
+        "[+3 Gold] per every [100] [Gold] <during a Golden Age> <starting from the [Industrial era]>",
+        "[+5 Gold] per every [100] [Gold] <during a Golden Age> <starting from the [Atomic era]>"
         
     ]
 }
