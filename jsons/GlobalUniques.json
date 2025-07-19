@@ -3,18 +3,18 @@
     "uniques": [
 
         // Bonuses
-
-        "[+1 Gold] per every [200] [Gold] <after discovering [Banking]>",
-        "[+1 Gold] per every [200] [Gold] <after discovering [Economics]>",
-        "[+1 Gold] per every [200] [Gold] <starting from the [Industrial era]>",
-        "[+1 Gold] per every [200] [Gold] <starting from the [Modern era]>",
-        "[+1 Gold] per every [200] [Gold] <starting from the [Atomic era]>",
+        "[+1 Gold] per every [100] [Gold],
+        "[+1 Gold] per every [100] [Gold] <after discovering [Banking]>",
+        "[+1 Gold] per every [100] [Gold] <after discovering [Economics]>",
+        "[+1 Gold] per every [100] [Gold] <starting from the [Industrial era]>",
+        "[+1 Gold] per every [100] [Gold] <starting from the [Modern era]>",
+        "[+1 Gold] per every [100] [Gold] <starting from the [Atomic era]>",
 
 
         // Golden Age Bonuses
-        "[+1 Gold] per every [100] [Gold] <during a Golden Age>",
-        "[+3 Gold] per every [100] [Gold] <during a Golden Age> <starting from the [Industrial era]>",
-        "[+5 Gold] per every [100] [Gold] <during a Golden Age> <starting from the [Atomic era]>"
+        "[+3 Gold] per every [100] [Gold] <during a Golden Age>",
+        "[+5 Gold] per every [100] [Gold] <during a Golden Age> <starting from the [Industrial era]>",
+        "[+7 Gold] per every [100] [Gold] <during a Golden Age> <starting from the [Atomic era]>"
         
     ]
 }
