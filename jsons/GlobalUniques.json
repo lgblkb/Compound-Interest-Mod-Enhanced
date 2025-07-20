@@ -3,7 +3,7 @@
     "uniques": [
 
         // Bonuses
-        "[+1 Gold] per every [100] [Gold],
+        "[+1 Gold] per every [100] [Gold]",
         "[+1 Gold] per every [100] [Gold] <after discovering [Banking]>",
         "[+1 Gold] per every [100] [Gold] <after discovering [Economics]>",
         "[+1 Gold] per every [100] [Gold] <starting from the [Industrial era]>",
